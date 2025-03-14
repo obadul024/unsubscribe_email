@@ -32,7 +32,7 @@ The `disposable_email_domains.txt` file contains a comprehensive list of known d
 To utilize the list of disposable email domains:
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
-https://github.com/obadul024/unsubscribe_email/tree/main
+
    ```bash
    git clone https://github.com/obadul024/unsubscribe_email.git
    ```
